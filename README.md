@@ -2,8 +2,7 @@
 
 Download and install [mises browser](https://play.google.com/store/apps/details?id=site.mises.browser).
 
-Donwload and install [termux]
-(https://f-droid.org/repo/com.termux_1020.apk).
+Donwload and install [termux](https://f-droid.org/repo/com.termux_1020.apk).
 
 Login to grass web and go to the dashboard, then open the Developer Tools in the mises browser.
 
