@@ -24,7 +24,7 @@ After Installing Termux, Make Sure You Allowed Storage Permission On Termux (dev
  
 > pkg install tur-repo
  
-> pkg install python-is-python3.10
+> pkg install python3.10
 
 > pkg install -y rust binutils
  
